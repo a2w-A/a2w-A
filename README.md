@@ -68,3 +68,30 @@ We are building generational infrastructure with patience and iron will. We welc
 * 📧 **Direct Inquiries:** [nikil@algo2world.com](mailto:nikil@algo2world.com) | [nikil@a2w.in](mailto:nikil@a2w.in)
 * 🤖 **Telegram Support & Bots:** [@Auto_GPT_Bot](https://t.me/Auto_GPT_Bot)
 * 🌍 **Web:** [algo2world.com](https://algo2world.com) • [a2w.in](https://a2w.in)
+
+
+## for more info
+
+Full-Stack Architect & IT Infrastructure Specialist
+
+[![Website](https://img.shields.io/badge/Official_Website-algo2world.com-0052CC?style=flat&logo=google-chrome&logoColor=white)](https://algo2world.com)
+[![Available for Hire](https://img.shields.io/badge/Status-Available_for_Projects_&_AMC-28a745?style=flat&logo=checkmarx&logoColor=white)](#-hire-me--commercial-services)
+[![Email](https://img.shields.io/badge/Email-nikil%40algo2world.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nikil@algo2world.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Auto__GPT__Bot-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Auto_GPT_Bot)
+
+> **Founder & Lead Engineer at [Algo2World](https://algo2world.com)**  
+> Engineering scalable web platforms, high-availability cloud systems, and privacy-first sovereign software architectures. Available for select freelance engineering contracts, full-stack builds, and long-term enterprise AMC partnerships.
+
+---
+
+### 💼 Hire Me & Commercial Services
+
+I help businesses, startups, and enterprises design, build, and maintain production-grade digital infrastructure.
+
+* 🌐 **Custom Web & Portal Development:** High-performance business websites, dynamic booking portals, and enterprise dashboards using Python, Flask, React, and REST APIs.
+* 🛡️ **Annual Maintenance Contracts (AMC) & IT Support:** Full server hardening, 99.9% uptime management, automated multi-cloud database backups, SSL enforcement, and rapid disaster recovery.
+* 💳 **Payment & API Integrations:** Turnkey payment processing (Razorpay, Stripe), automated billing pipelines, SMS/Email transactional relays, and third-party webhook syncs.
+* ☁️ **Cloud, Linux & DevOps Architecture:** Production Docker setups, reverse-proxy routing (Nginx/Caddy), domain orchestration, and zero-downtime deployments.
+
+Ready to launch a project or secure your digital assets?  
+📩 **Direct Project Consultation:** [nikil@algo2world.com](mailto:nikil@algo2world.com) | [nikil@a2w.in](mailto:nikil@a2w.in)
