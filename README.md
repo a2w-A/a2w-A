@@ -88,6 +88,12 @@ Full-Stack Architect & IT Infrastructure Specialist
 
 I help businesses, startups, and enterprises design, build, and maintain production-grade digital infrastructure.
 
+<!-- Blue Verified ID Badge -->
+![Verified Identity](https://img.shields.io/badge/Identity-Verified_Developer-0052CC?style=flat&logo=github)
+
+<!-- Green Available Badge -->
+![Available for Hire](https://img.shields.io/badge/Status-Available_for_Projects-28a745?style=flat&logo=checkmarx)
+
 * 🌐 **Custom Web & Portal Development:** High-performance business websites, dynamic booking portals, and enterprise dashboards using Python, Flask, React, and REST APIs.
 * 🛡️ **Annual Maintenance Contracts (AMC) & IT Support:** Full server hardening, 99.9% uptime management, automated multi-cloud database backups, SSL enforcement, and rapid disaster recovery.
 * 💳 **Payment & API Integrations:** Turnkey payment processing (Razorpay, Stripe), automated billing pipelines, SMS/Email transactional relays, and third-party webhook syncs.
