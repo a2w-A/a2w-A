@@ -84,7 +84,7 @@ Full-Stack Architect & IT Infrastructure Specialist
 
 ---
 
-### 💼 Hire Me & Commercial Services :
+### 💼 Hire Me & Commercial Services :-
 
 I help businesses, startups, and enterprises design, build, and maintain production-grade digital infrastructure.
 
