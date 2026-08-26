@@ -136,7 +136,7 @@ We are actively engineering a tracking-free, privacy-hardened alternative to for
 
 ---
 
-### 📊 GitHub Activity & Metrics : -
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a2w-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nikil's GitHub Stats" />
